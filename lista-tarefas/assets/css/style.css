@@ -14,15 +14,8 @@ body {
   padding: 0;
   background: var(--primary-color);
   font-family: 'Open sans', sans-serif;
-  font-size: 1em;
-  line-height: 0.6em;
-}
-
-.div-imc{
-  display: flex;
-}
-.div2{
-  margin-left: 3cm;
+  font-size: 1.3em;
+  line-height: 1.5em;
 }
 
 .container {
@@ -52,7 +45,7 @@ form input:focus {
 form button {
   border: none;
   background: var(--primary-color);
-  color: #ffffff;
+  color: #fff;
   font-size: 18px;
   font-weight: 700;
   height: 50px;
